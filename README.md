@@ -17,17 +17,18 @@ This project showcases the application of classic algorithms in real-world scena
 
 **Clone the repository**:
    git clone https://github.com/yourusername/emergency-response-system.git
-Navigate to the project directory:
 
-cd emergency-response-system
-Compile the project:
-
-g++ -o emergency_response_system main.cpp -std=c++11
-Usage
-Run the application with:
-
-./emergency_response_system
+**Navigate to the project directory**:
+   cd emergency-response-system
+   
+**Compile the project**:
+   g++ -o emergency_response_system main.cpp -std=c++11
+   
+**Run the application with**:
+   ./emergency_response_system
+   
 Follow the on-screen prompts to input your location and see the nearest hospital and the shortest path to it.
 
-Contributing
-Contributions are welcome! Please open issues or submit pull requests for improvements. For more details, refer to our CONTRIBUTING.md file.
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests for improvements. 
