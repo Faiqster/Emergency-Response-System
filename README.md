@@ -16,7 +16,7 @@ This project showcases the application of classic algorithms in real-world scena
 ## Installation
 
 **Clone the repository**:
-   git clone https://github.com/yourusername/emergency-response-system.git
+   git clone https://github.com/Faiqster/Emergency-Response-System.git
 
 **Navigate to the project directory**:
    cd emergency-response-system
